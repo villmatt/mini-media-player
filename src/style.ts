@@ -70,6 +70,7 @@ const style = css`
     color: var(--mmp-text-color);
   }
   ha-card {
+    width: 30px;
     cursor: default;
     display: flex;
     background: transparent;
