@@ -1,6 +1,6 @@
 {
   "name": "mini-media-player",
   "content_in_root": true,
-  "filename": "honeycomb-menu.js",
+  "filename": "./dist/mini-media-player-bundle.js",
   "render_readme": true
 }
